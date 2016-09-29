@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyExchangeRates</string>
+    <string name="label_string">Курс доллара:</string>
+    <string name="string_data__text_view">Текущая дата:</string>
 </resources>
