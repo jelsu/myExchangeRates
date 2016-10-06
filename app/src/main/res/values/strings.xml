@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">MyExchangeRates</string>
-    <string name="label_string">Курс доллара:</string>
-    <string name="string_data__text_view">Текущая дата:</string>
+    <string name="rate_text_view_string">Курс данной валюты:</string>
+    <string name="date_text_view_string">Дата последнего обновления:</string>
+    <string name="currency_text_view_string">Выберите валюту</string>
 </resources>
